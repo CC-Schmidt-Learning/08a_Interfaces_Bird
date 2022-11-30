@@ -4,8 +4,8 @@ public class Bird implements Flyable, IFeathers{
 
     @Override
     public String fly() {
-        return "Blackbird fly" +","+ 
-        "Into the light of the dark black night";
+        return "Birds fly" +","+ 
+        "in every direction";
     }
 
     @Override
